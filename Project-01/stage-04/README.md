@@ -22,9 +22,5 @@
   
 
 ## Assignments
-* Inspect the Example page 
-    * (change styles, views, etc)
-* Style the index page step by step (mostly copy paste)
-* Style the detail page yourself
-
+TODO
 

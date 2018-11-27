@@ -7,19 +7,18 @@
     * rules
     * declaration
     * property & value
-    * selector
+    * selector, class selector, id selector, attribute selector
 * [ ] The student can style specific elements on a page by using element, id and class selectors
 * [ ] The student knows how to use google fonts
 * [ ] The student knows why and how to use flexbox
 * [ ] The student is familiar with the idea of mobile first development
 
 ## Modules
-  * CSS - basics
-    * set up
-    * rules, declarations, selectors
-  * CSS - responsiveness
-    * Flexbox
-    * Mobile view in devtools
+
+  * CSS 1 (syntax, selectors, ways to link to a document)
+  * CSS 2 (document flow, block vs inline vs inline-block, FlexBox, RWD)
+  * CSS 3 (typography, font related properties, @import rules for web font providers)
+  * Chrome DevTools 2 (inspecting CSS)
 
 ## Assignments
 * Inspect the Example page 
