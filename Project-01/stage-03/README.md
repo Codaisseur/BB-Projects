@@ -19,12 +19,13 @@
   * Internet 1 (intro to HTTP needed to understand forms, mention domain names and IP addresses)
   * HTML 2 (forms, inputs, buttons, labels)
   * JavaScript 1 (variables, declarations, (re-)assignments, primitive types)
-  * JavaScript 2 (compound/composite data types arrays and objects, properties, adding/removing elements, array.length, array methods push, pop?, shift?, unshift?)
-  * JavaScript 3 (functions, parameters v arguments, functions as values, methods, `this`)
-  * DOM 1 (querying document, manipulating elements, creating elements)
+  * JavaScript 2 (operators numeric/boolean/string, string interpolation)
+  * JavaScript 3 (compound/composite data types arrays and objects, properties, adding/removing elements, array.length, array methods push, pop?, shift?, unshift?)
+  * JavaScript 4 (functions, parameters v arguments, functions as values, methods, `this`)
+  * JavaScript 5 (flow control, for, while, if, switch)
+  * DOM 1 (querying document, manipulating elements, creating elements, <script> tags in HTML)
   * DOM 2 (event listeners, addEventListener v on* properties v on* attributes)
   * Chrome DevTools 3 (using the console to run JavaScript and see messages)
-  
 
 ## Assignments
 TODO
