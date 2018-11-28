@@ -5,7 +5,7 @@ In this part we will set you up to use two of the most important tools of the De
 
 
 ## 🎯 Learning Goals
-By the end of this step, you will learn:
+By the end of this section, you will learn:
 
 * [ ] how to navigate and do basic management of the file system from the shell
 * [ ] how to use git & gitHub for version tracking
