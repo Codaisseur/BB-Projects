@@ -65,6 +65,19 @@ It is time to start for real! Let's set up your basic frame work of your HTML pa
 ></html>
 >```
 
+10. Stage your changes, commit them and push them to GitHub:
+
+```shell
+$ git add .
+$ git commit -m 'Set up basic framework HTML'
+$ ggpush
+```
+
+11. Check on the GitHub repository page whether your changes were pushed. You should see this line:
+![new push on branch on GitHub](https://cd.sseu.re/MimiMagmuseum-app_2018-11-28_18-11-10.png)
+
+>  _❗️ If it did not work, make sure you 1) did not copy the dollar sign, 2) added the `.` after `git add` and 3) copied the commands one line at the time!_ 
+
 
 
 ## 🎯 Learning Goal Tracker
