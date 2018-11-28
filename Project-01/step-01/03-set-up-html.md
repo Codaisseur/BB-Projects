@@ -7,7 +7,7 @@ By then end of this section, your page will look like this one:
 ## 🎯 Learning Goals
 By the end of this section, you will learn:
 
-* [] how to create an HTML page in your text editor and open it in the browser
+* [ ] how to create an HTML page in your text editor and open it in the browser
 
 
 ## 📚 Modules that will be discussed
@@ -48,7 +48,7 @@ It is time to start for real! Let's set up your basic frame work of your HTML pa
 > ## 👌 Pro-tip
 > Not sure where to find your file? In your terminal, in your project directory, print the working directory with `pwd`!
 
-9. Your page should look like this:
+9. Your page should look like the image below. Do you know why the page is empty?
 ![Result](https://cd.sseu.re/Museum_Guide_2018-11-28_18-01-35.png)
 
 > ## 😱  Sanity Check
