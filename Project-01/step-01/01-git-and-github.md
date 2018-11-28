@@ -106,8 +106,8 @@ Well done! You set up a repository on GitHub, added the (remote repository) to g
 ## 🎯 Learning Goal Tracker
 In this section, you learned...
 
-* [ ] how to navigate and do basic management of the file system from the shell
-* [ ] how to use git & gitHub for version tracking
+* [X] how to navigate and do basic management of the file system from the shell
+* [X] how to use git & gitHub for version tracking
 * [ ] how to use Chrome DevTools to inspect the HTML of a page
 * [ ] how to create an HTML page in your text editor and open it in the browser
 * [ ] some important HTML tags, and when/why you should use them.
