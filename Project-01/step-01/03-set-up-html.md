@@ -1,4 +1,4 @@
-# Set Up your 
+# Set Up Your HTML
 
 ## 🎨 What we will build
 By then end of this section, your page will look like this one: 
