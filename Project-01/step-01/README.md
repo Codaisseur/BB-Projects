@@ -1,4 +1,14 @@
-# Stage 01: HTML
+# Step 01: HTML
+
+## 🎨 What we will build
+In this part you are going to build the main structure of the app. Your end result will look something like this:
+
+![Image of final product step 01]()
+
+## 🎯 Learning Goals
+
+---
+For Developers - MOVE WHEN FINISHED
 
 ## Learning Goals
 * [ ] The student can use Chrome DevTools to inspect the HTML of a page

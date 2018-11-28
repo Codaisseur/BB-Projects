@@ -1,4 +1,4 @@
-# Stage 02: JavaScript - Complex data
+# Step 02: JavaScript - Complex data
 
 ## Learning Goals
 * [ ] The student recognizes complex data structures (arrays, nested objects, etc)
