@@ -1,4 +1,4 @@
-# Stage 02: DOM - creating a form
+# Stage 03: DOM - creating a form
 
 ## Learning Goals
 * [ ] The student can use the javascript console of their devTools to inspect the DOM and try their JS
@@ -16,21 +16,17 @@
     * object, property, value
 
 # Modules
-  * DOM
-    * Methods
-    * Event Listeners/Handlers
-  * Data types
-  * Objects
-    * properties and values
-    * access a property
-    * (re)assigning
-  * Functions
-  
+  * Internet 1 (intro to HTTP needed to understand forms, mention domain names and IP addresses)
+  * HTML 2 (forms, inputs, buttons, labels)
+  * JavaScript 1 (variables, declarations, (re-)assignments, primitive types)
+  * JavaScript 2 (operators numeric/boolean/string, string interpolation)
+  * JavaScript 3 (compound/composite data types arrays and objects, properties, adding/removing elements, array.length, array methods push, pop?, shift?, unshift?)
+  * JavaScript 4 (functions, parameters v arguments, functions as values, methods, `this`)
+  * JavaScript 5 (flow control, for, while, if, switch)
+  * DOM 1 (querying document, manipulating elements, creating elements, <script> tags in HTML)
+  * DOM 2 (event listeners, addEventListener v on* properties v on* attributes)
+  * Chrome DevTools 3 (using the console to run JavaScript and see messages)
 
 ## Assignments
-* Inspect the Example page 
-    * (change styles, views, etc)
-* Style the index page step by step (mostly copy paste)
-* Style the detail page yourself
-
+TODO
 
