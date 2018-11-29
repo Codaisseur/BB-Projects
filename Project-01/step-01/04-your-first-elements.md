@@ -65,18 +65,34 @@ The main framework is there, all we need to add is the content of the 'boxes' wi
 1. Check the `<section>` element in your DevTools. What does it contain? 
 ![inside section element](https://cd.sseu.re/MuseumGuide_2018-11-29_15-17-25.png)
 2. Add an `<h2>` element to your `<section>` element, with the content: 'Gallery'.
-3. Add 10 `<a>` elements to your `<section>` element. Assign all their `href`-attributes to "./pages/detail-page.html".
-4. Inside each `<a>` element, add a `<img>` element. Give each of them an attribute with the name "class"  and as value the string "artObject". Don't forget to add a 'source' and an 'alt' attribute!
+3. Add 5 `<a>` elements to your `<section>` element. Assign all their `href`-attributes to "./pages/detail-page.html".
+4. Inside each `<a>` element, add a `<img>` element. Give each of them an attribute with the name "class"  and as value the string "artObject". Don't forget to add a 'source' and an 'alt' attribute! Pick the 5 images you like best, or find your own, anywhere on the internet!
+
+> ## 👌 Pro-tip
+> _When using picture from the internet, you should use the `image address` of the picutre. You can find it by right-clicking on any image and select `copy image address`_
+> ![copy image address](https://cd.sseu.re/een_vrolijke_vioolspeler_-_Google_Search_2018-11-29_16-06-33.png)
+
+> ## 😱  Sanity Check
+> Your page/code should now look like this:
+> ![final result exercise 2](https://cd.sseu.re/Monosnap_2018-11-29_16-15-23.png)
+
+5. Why are the images under the 'gallery' title ? Why are the images ne
 
 
 ### Create a footer
 Inspect the footer and add the code to your `index.html` file!
 
-10. Stage your changes, commit them and push them to GitHub:
+> ## 😱  Sanity Check
+> Your page should now look like this:
+> ![End result exercise 2](https://cd.sseu.re/Museum_Guide_2018-11-29_16-22-51.png)
+> You can find a link to the code [here]("./finalResults")
+
+### Push your work to GH:
+1. Stage your changes, commit them and push them to GitHub:
 
 ```shell
 $ git add .
-$ git commit -m 'Set up basic framework HTML'
+$ git commit -m 'Add all elements to index page'
 $ ggpush
 ```
 

@@ -22,9 +22,9 @@ It is time to start for real! Let's set up your basic frame work of your HTML pa
 1. In your terminal, navigate into your `museum-app` directory:
 ![navigate to project](https://cd.sseu.re/1._mimiCodaisseursMBP2_codaisseurweek-1museum-app_zsh_2018-11-28_17-46-22.png)
 
-2. Because we are starting on a new part of our project, we will be creating a new branch. Create a new one and check it out with the command: `git checkout -b feat/index-page`:
+2. Because we are starting on a new part of our project, we will be creating a new branch. Create a new one and check it out with the command: `git checkout -b feat/structure-index-and-detail-page`:
 
-![create new branch](https://cd.sseu.re/1._mimiCodaisseursMBP2_codaisseurweek-1museum-app_zsh_2018-11-28_17-49-37.png)
+![create new branch](https://cd.sseu.re/1._mimiCodaisseursMBP2_codaisseurweek-1museum-app_zsh_2018-11-29_17-12-12.png)
 
 3. Open the `museum-app` project in visual studio code using `code .`
 
