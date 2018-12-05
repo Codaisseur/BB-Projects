@@ -58,7 +58,7 @@
           * A subset of the learning goals described in the 'parent step' which will be discussed in this section
         * 📚 Modules that will be discussed
           * Title (with links) of a subset of the modules that were defined in this step which are needed for this specific section
-        * ✏️ Exercises
+        * ✏️ Assignments
           * A set of exercises that will lead to the outcome presented in _What we will be build_ at the top of the page and are connected to the _Learning Goals_.
           * Focus is on implementing code examples and applying knowledge, not on understanding, so there should be no/hardly any explanation.
         * 😱  Sanity Check(s)
