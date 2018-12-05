@@ -1,6 +1,6 @@
 # My Museum App
 
-Welcome to your very first project! In this project, we will be introducing you to all important concepts that you need to know about to build a front end app. 
+Welcome to your very first project! In this project, we will be introducing you to all important concepts all the important concepts needed to build a front end app.
 
 The front end or _client side_ of an app, is the part of your app that the user sees and interacts with: everything you see on the screen. It is one of the three main parts of any sort of (web)app:
 
