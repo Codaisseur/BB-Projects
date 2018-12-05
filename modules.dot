@@ -1,5 +1,4 @@
 digraph {
-    "Terminal 1"->"Terminal 2"
     "Terminal 1"->"Git 1"
     "Git 1"->"Git 2"
     "Internet 1"->"Git 2"
