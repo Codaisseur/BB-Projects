@@ -46,7 +46,7 @@
     * Contains:
       * An index page explaining:
         * 🎨 What we will build
-          * A visual representation of what the student should see on the screen by the end of this step
+          * A (visual) representation of what the student should see on the screen by the end of this step
         * 🎯 Learning Goals
           * 4-5 (general) learning goals
         * 📚 Modules that will be discussed
