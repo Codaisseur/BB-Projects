@@ -1,4 +1,4 @@
-# Stage 02: CSS
+# Step 02: CSS
 
 ## Learning Goals
 * [ ] The student can use their devtools to inspect the CSS of a page using different views (mobile, desktop, etc)
