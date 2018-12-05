@@ -3,7 +3,7 @@
 ## 🎨 What we will build
 In this part you are going to build the main structure of the app. Your end result will look something like this:
 
-![Image of final product step 01]()
+![Image of final product step 01](https://cd.sseu.re/screencast_2018-12-05_12-34-30.gif)
 
 ## 🎯 Learning Goals
 By the end of this step, you will learn:
