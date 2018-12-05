@@ -18,7 +18,7 @@ By the end of this section, you will learn:
   * [HTML 1](or2?)
   * [Git 2](orGitHub?)
 
-## ✏️ Exercises
+## ✏️ Assignments
 ### Set up the page
 In this exercises, we'll help you to set up the page. We'll cheat a bit, we are only going to create one and link all our anchor elements towards that one page.
 

@@ -14,7 +14,7 @@ By the end of this section, you will learn:
 
 * [Chrome DevTools 1]()
 
-## ✏️ Exercises
+## ✏️ Assignments
 
 ### Inspect the HTML of a page
 Before you start writing your own code, we'll check how to inspect and experiment with the HTML of a page using your Chrome Dev Tools. In this way you can always check out examples of other pages, but also inspect whether your browser interprets your code as you expected.

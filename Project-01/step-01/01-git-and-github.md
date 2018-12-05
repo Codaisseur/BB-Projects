@@ -18,7 +18,7 @@ By the end of this section, you will learn:
 * [Git 1]()
 * [Git 2]()
 
-## ✏️ Exercises
+## ✏️ Assignments
 
 ### Create a directory
 

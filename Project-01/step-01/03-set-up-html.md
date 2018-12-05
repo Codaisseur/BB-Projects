@@ -15,7 +15,7 @@ By the end of this section, you will learn:
   * [HTML 1]()
   * [Git 2](orGitHub?)
 
-## ✏️ Exercises
+## ✏️ Assignments
 ### Setting Up your HTML Page
 It is time to start for real! Let's set up your basic frame work of your HTML page and open it in the browser!
 

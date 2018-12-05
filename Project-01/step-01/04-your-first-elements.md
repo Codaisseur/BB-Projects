@@ -14,7 +14,7 @@ By the end of this section, you will learn:
   * [HTML 1](or2?)
   * [Git 2](orGitHub?)
 
-## ✏️ Exercises
+## ✏️ Assignments
 ### Adding `<main>`, `<footer>`, `<h1>` and `<section>` elements
 Let's make sure our page has something to show!
 
