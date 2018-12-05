@@ -68,7 +68,7 @@
           * Optional, offering alternative, easier ways or best practices which are not necessary to make it work, but do improve your skills as a programmer
           * Presented after relevant step in exercise
         * ❗️ Most Common Errors
-          * Answers to the questions that you are sure will be asked 😉
+          * Optional, Answers to the questions that you are sure will be asked 😉
           * Presented after relevant step in exercise
         * 🎯 Learning Goal Tracker
           * An overview of all learning goals for this step and which ones have been achieved.
