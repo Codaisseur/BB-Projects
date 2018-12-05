@@ -16,7 +16,7 @@ This is app might look like complete app to you, however, there are a couple of 
 
 First of all, it _can't store any data_. Even though you can add likes or comments, once you refresh the page, everything will be reset. To store data, you need to use a _database_.
 
-Secondly, this app is not very safe! All data and all the code that we will write will be visible to and adjustable by anyone. To limit data access to specific users, you need a _back end_.
+Secondly, all data and all the code that we will write will be visible to and adjustable by anyone, so make sure you don't write any personal details or secret info in your code! To limit data access to specific users, you need a _back end_.
 
 ## Developer Tools
 Besides the main concepts to build a front end app, we will also be introducing you to some important tools for developers, such as Chrome Dev Tools, Git and Github.
