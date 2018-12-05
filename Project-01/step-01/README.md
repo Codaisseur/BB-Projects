@@ -1,4 +1,40 @@
-# Stage 01: HTML
+# Step 01: HTML
+
+## 🎨 What we will build
+In this part you are going to build the main structure of the app. Your end result will look something like this:
+
+![Image of final product step 01](https://cd.sseu.re/screencast_2018-12-05_12-34-30.gif)
+
+## 🎯 Learning Goals
+By the end of this step, you will learn:
+
+* [ ] how to navigate and do basic management of the file system from the shell
+* [ ] how to use git & gitHub for version tracking
+* [ ] how to use Chrome DevTools to inspect the HTML of a page
+* [ ] how to create an HTML page in your text editor and open it in the browser
+* [ ] some important HTML tags, and when/why you should use them.
+
+## 📚 Modules that will be discussed
+
+Please checkout the following modules before you start working on this step:
+
+  * [Terminal 1]()
+  * [Terminal 2]()
+  * [Git 1]()
+  * [Git 2]()
+  * [HTML 1]()
+  * [Chrome DevTools 1]()
+
+## ⁉️ Help
+See how far you can get on your own. We'll try to resemble your working future environment: if you get stuck, first heck out the modules again or try to google your question. If that does not solve your issue, ask your classmates or teachers to help out. 
+
+However **always** ask for help if you get stuck for longer then 15 minutes, if the assignment is not clear to you or if you feel like your progress is too slow to finish the assignments.
+
+For more info on when and how to ask (good) questions, checkout out [this medium post](https://medium.codaisseur.com/how-to-ask-a-proper-question-ab97a3a1f3c9).
+
+
+---
+For Developers - MOVE WHEN FINISHED
 
 ## Learning Goals
 * [ ] The student can use Chrome DevTools to inspect the HTML of a page
