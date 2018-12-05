@@ -36,17 +36,17 @@ By the end of this section, you will learn:
 >
 > ![Tab completion](https://cd.sseu.re/1._mimiCodaisseursMBP2__zsh_2018-11-28_15-40-02.png)
 
-3. Now, create a a new directory called `week-1` with the command `mdkir week-1` and change directories into `week-1` by running `cd museum-app`. Print your working directory (`pwd`) to check where you are:
+3. Now, create a a new directory called `week-1` with the command `mdkir week-1` and change directories into `week-1` by running `cd museum-app`. Use the command that displays your current working directory (`pwd`) to check where you are:
 
 ![pwd](https://cd.sseu.re/1._mimiCodaisseursMBP2_codaisseurweek-1_zsh_2018-11-28_16-09-37.png)
 
-4. Finally, create a new directory called `museum-app` and change directories into it. When you print your working directory, you should see something like: `/Users/[YOUR NAME]/codaisseur/week-1/museum-app`.
+4. Finally, create a new directory called `museum-app` and change directories into it. When you use the command that displays your current working directory, you should see something like: `/Users/[YOUR NAME]/codaisseur/week-1/museum-app`.
 
 That's it! You are all set up!
 
 ### Initialize a git repository and commit your first change
 
-Next up, we will initialize a git repository (repo) to keep track of all your changes. You'll be creating a new git repo for every project that you'll start.
+Next up, we will initialize a git repository (repo) to keep track of all your changes. You'll be creating a new git repo for every new project during the academy and beyond...
 
 1. Check whether you are in your project directory:
 ![Check working directory](https://cd.sseu.re/1._mimiCodaisseursMBP2_codaisseurweek-1museum-app_zsh_2018-11-28_16-17-21.png)
