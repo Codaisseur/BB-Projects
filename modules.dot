@@ -18,5 +18,4 @@ digraph {
     "JavaScript 4"->"JavaScript 5"
     "JavaScript 5"->"JavaScript 6"
     "JavaScript 4"->"DOM 1"
-    "DOM 1"->"DOM 2"
 }
