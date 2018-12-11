@@ -28,7 +28,7 @@ Since we are trying to rebuild the example app, we'll have to work on how we pos
     * What happens if you change `.artObject` to `artObject`? Why does that happen?
     * What happens if you replace `max-width` with `width`?
     * What happens if you replace `max-height` with `height`?
-3. Change your view to different types of mobile devices and check whether your page still looks ok: ![switch mobile device](https://cd.sseu.re/Museum_Guide_2018-12-11_09-37-48.png)
+3. Change your view to different types of mobile devices and check whether your page still looks ok (it should, I just want you to switch views 😉): ![switch mobile device](https://cd.sseu.re/Museum_Guide_2018-12-11_09-37-48.png)
 
 > ## 👌 Pro-tip
 > If you copy code, make sure your indentation is still correct!
