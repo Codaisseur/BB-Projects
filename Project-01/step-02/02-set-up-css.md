@@ -40,11 +40,7 @@ You are ready to go!
 ```html
 <link rel="stylesheet" type="text/css" media="screen" href="index.css">
 ```
-* Add the following code to `index.css`
-```css
-body {
-  background: #FFBA00
-}
+* In `index.css`, add a rule that sets the background color of the body element to #FFBA00.
 ```
 * Open `index.html` in your browser (or refresh the page if you had it opened, still) and check what happened.
 * In your editor, change the background color to your favorite color.
