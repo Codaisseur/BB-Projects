@@ -14,8 +14,7 @@ By the end of this section, you will learn:
 
 ## 📚 Modules that will be discussed
 
-  * [HTML 1](or2?)
-  * [Git 2](orGitHub?)
+  * [CSS 3]()
 
 ## ✏️ Assignments
 ### Create a new branch
