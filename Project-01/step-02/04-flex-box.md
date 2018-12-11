@@ -13,7 +13,7 @@ By the end of this section, you will learn:
 
 ## 📚 Modules that will be discussed
 
-* [CSS 2]()
+* [CSS 3]()
 
 
 ## ✏️ Assignments
