@@ -12,4 +12,4 @@ Key word here are introducing and implementing. Actually applying their JS will 
 
 ## Currently missing
 * if/else statements
-  * I still want to incoporate those somehow
+  * I still want to incorporate those somehow
