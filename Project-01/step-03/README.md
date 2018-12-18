@@ -1,4 +1,42 @@
-# Stage 03: DOM - creating a form
+# Step 03: DOM - creating a form
+
+## 🎨 What we will build
+In this part you are going to make the comment form on your detail page actually do something!
+![comment form](https://cd.sseu.re/Een_vrolijke_vioolspeler_2018-12-11_15-43-26.png)
+
+
+## 🎯 Learning Goals
+By the end of this step, you will learn:
+
+* [ ] how to select, create and adjust elements from a page
+* [ ] how to declare and call functions
+* [ ] how to check JavaScript in your DevTools
+* [ ] how to store data in a variable
+* [ ] how to (re)assign values to a property of a DOM-element.
+
+## 📚 Modules that will be discussed
+
+Please checkout the following modules before you start working on this step:
+
+  * [Internet 1 ]()
+  * [HTML 2 ]()
+  * [Chrome DevTools 3]()
+  * [JavaScript 1]()
+  * [JavaScript 2]()
+  * [JavaScript 3]()
+  * [JavaScript 4]()
+  * [DOM 1]()
+
+## ⁉️ Help
+See how far you can get on your own. We'll try to resemble your working future environment: if you get stuck, first heck out the modules again or try to google your question. If that does not solve your issue, ask your classmates or teachers to help out. 
+
+However **always** ask for help if you get stuck for longer then 15 minutes, if the assignment is not clear to you or if you feel like your progress is too slow to finish the assignments.
+
+For more info on when and how to ask (good) questions, checkout out [this medium post](https://medium.codaisseur.com/how-to-ask-a-proper-question-ab97a3a1f3c9).
+
+
+---
+# DEVELOPERS ONLY - DELETE LATER
 
 ## Learning Goals
 * [ ] The student can use the javascript console of their devTools to inspect the DOM and try their JS

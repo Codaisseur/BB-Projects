@@ -1,5 +1,7 @@
 # Step 02: JavaScript - Complex data
 
+- also? display time on comments, control flow to format the date.
+
 ## Learning Goals
 * [ ] The student recognizes complex data structures (arrays, nested objects, etc)
 * [ ] The student understands you can fetch data from other apis and can implement code examples we give to fetch some data. (Not do it themselves, only understand what, not necessarily how!)
