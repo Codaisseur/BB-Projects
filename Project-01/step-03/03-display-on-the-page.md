@@ -61,6 +61,7 @@ Let's reset the input fields!
 >   const commentSection = document.getElementById('comments')
 >   commentSection.appendChild(comment)
 >
+>   // reset form values
 >   inputField.value = null
 >   textArea.value = null
 > }
@@ -75,14 +76,6 @@ $ git commit -m 'Display elements and reset form'
 $ ggpush
 ```
 
-> ## 👌 Pro-tip
-> Noticed all the `console.log`s we did? We use a method we like to call _check yourself before you wreck yourself_: check whether every bit of code you write does what you think it does, this will help you spotting errors.
-> 
-> However this is a method that is useful for you, not so much for the final product. It is good practice to remove all unecessary logs and comments from your code before you push to GitHub.
-
-### Merge your branch
-Merge your branch and pull the latest version from master!
-
 ## 🎯 Learning Goal Tracker
 In this section, you learned...
 
@@ -93,3 +86,4 @@ In this section, you learned...
 * [X] how to create elements using JavaScript
 * [X] how to (re)assign values to a property of a DOM-element
 * [X] how to display newly created elements
+* [ ] how to use control flow for form validation

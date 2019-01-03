@@ -119,3 +119,4 @@ In this section, you learned...
 * [ ] how to create elements using JavaScript
 * [ ] how to (re)assign values to a property of a DOM-element
 * [ ] how to display newly created elements
+* [ ] how to use control flow for form validation

@@ -149,5 +149,6 @@ In this section, you learned...
 * [X] how to create elements using JavaScript
 * [X] how to (re)assign values to a property of a DOM-element
 * [ ] how to display newly created elements
+* [ ] how to use control flow for form validation
 
 **TODO**
