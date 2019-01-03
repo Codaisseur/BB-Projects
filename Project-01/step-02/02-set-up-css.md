@@ -16,7 +16,7 @@ By the end of this section, you will learn:
 
 
 ## ✏️ Assignments
-### Creating a new branch
+#### Creating a new branch
 As we are starting on a new part of this project, we will be creating a new branch. 
 
 * In your terminal, navigate to your project.
@@ -33,7 +33,7 @@ $ ggpull
 
 You are ready to go!
 
-### Setting Up your CSS
+#### Setting Up your CSS
 * In your terminal, inside your project directory, open your project in your editor using the command `code .`.
 * In VSC, in the main directory of your project, create a new file called `index.css`.
 * At the bottom of the the `<head>`-section of `index.html`, add the following line:
@@ -49,7 +49,7 @@ You are ready to go!
 > Your page should now look somewhat like this:
 > ![final result 02.02](https://cd.sseu.re/Museum_Guide_2018-12-05_14-46-48.png)
 
-### Push your changes to GitHub
+#### Push your changes to GitHub
 Check your changes, select the ones you want to commit, commit and push them to your branch.
 
  ```shell

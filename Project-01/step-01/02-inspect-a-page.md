@@ -16,7 +16,7 @@ By the end of this section, you will learn:
 
 ## ✏️ Assignments
 
-### Inspect the HTML of a page
+#### Inspect the HTML of a page
 Before you start writing your own code, we'll check how to inspect and experiment with the HTML of a page using your Chrome Dev Tools. In this way you can always check out examples of other pages, but also inspect whether your browser interprets your code as you expected.
 
 1. Go to the [example page](), right click on the title and click `inspect`. This should open your _Chrome DevTools_.

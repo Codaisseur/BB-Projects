@@ -19,7 +19,7 @@ By the end of this section, you will learn:
   * [Git 2](orGitHub?)
 
 ## ✏️ Assignments
-### Set up the page
+#### Set up the page
 In this exercises, we'll help you to set up the page. We'll cheat a bit, we are only going to create one and link all our anchor elements towards that one page.
 
 1. In your terminal, in your `museum-app`, create a new project directory called `pages` using the `mkdir` command.
@@ -27,13 +27,13 @@ In this exercises, we'll help you to set up the page. We'll cheat a bit, we are 
 3. In your browser, check whether you are redirected to your details-page when you click on an image. Your page should look like this:
 ![result exercise 1](https://cd.sseu.re/Monosnap_2018-11-29_17-02-54.png)
 
-### Add all elements
+#### Add all elements
 This is your moment to shine! Inspect the detail page of the [example app]() using your Chrome DevTools and add the elements you find to your detail page.
 
 By the end, your page should look something like this:
 ![result exercise 2](https://cd.sseu.re/Monosnap_2018-11-29_17-01-52.png)
  
-### Push to GitHub
+#### Push to GitHub
 Push your work to GitHub!
 
 ```shell
@@ -42,7 +42,7 @@ $ git commit -m 'Create index page'
 $ ggpush
 ```
 
-### Merge into master
+#### Merge into master
 We build our feature! Let's merge everything into master.
 
 1. Checkout your GitHub repository page and click the green button:

@@ -17,7 +17,7 @@ By the end of this section, you will learn:
 
 
 ## ✏️ Assignments
-### Styling the `<main>` section
+#### Styling the `<main>` section
 * Inspect the styling of the `<main>` section and experiment with the values and properties to check what everything does:
 ![main section in devtools](https://cd.sseu.re/MuseumGuide_2018-12-05_14-54-42.png)
 
@@ -85,7 +85,7 @@ In this assignment, you will be styling the text on the page.
 * If it all worked out, feel free to go to [fonts.google.com](https://fonts.google.com/) and select a font you like!
 
 
-### Missing styles
+#### Missing styles
 * Check which CSS rules are missing still in your `body`-selector and add them to your `body`-selector in `index.css`. Make sure to check out what each of them is doing in your DevTools!
 
 > ## 😱  Sanity Check
@@ -112,7 +112,7 @@ In this assignment, you will be styling the text on the page.
 >    margin: 3rem 1rem 6rem 1rem;
 >  }
 >```
-### Push your changes to GitHub
+#### Push your changes to GitHub
 Check your changes, select the ones you want to commit, commit and push them to your branch.
 
  ```shell

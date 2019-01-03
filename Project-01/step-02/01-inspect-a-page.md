@@ -17,7 +17,7 @@ By the end of this section, you will learn:
 
 ## ✏️ Assignments
 
-### Inspecting CSS with Chrome DevTools
+#### Inspecting CSS with Chrome DevTools
 The goals of the following assignments is to answer all your CSS questions by experimenting with the DevTools. The answers themselves are not too important, you should however be able to figure out an answer using your DevTools.
 
 * Check out the Styles Section of your Chrome DevTools. Uncheck the box in front of `padding: 2rem 0`. What happens?

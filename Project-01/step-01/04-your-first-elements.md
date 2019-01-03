@@ -15,7 +15,7 @@ By the end of this section, you will learn:
   * [Git 2](orGitHub?)
 
 ## ✏️ Assignments
-### Adding `<main>`, `<footer>`, `<h1>` and `<section>` elements
+#### Adding `<main>`, `<footer>`, `<h1>` and `<section>` elements
 Let's make sure our page has something to show!
 
 1. Thinking in 'boxes', we could split up the page as like the image below. The different level of boxes are color coded. The outer box has a blue border, the boxes inside the blue border are grey, the boxes inside the grey border are black and the boxes inside the black border are orange. Using the elements in your DevTools, can you assign each elements in the list below to the right color?
@@ -58,7 +58,7 @@ Your page should now look something like this:
 
 ![page with blue, grey and black layer](https://cd.sseu.re/Museum_Guide_2018-11-29_15-09-51.png)
 
-### Adding `<a>` and `<img>` elements
+#### Adding `<a>` and `<img>` elements
 The main framework is there, all we need to add is the content of the 'boxes' with orange borders:
 ![Page in boxes](https://cd.sseu.re/MuseumGuide_2018-11-28_18-50-13.png)
 
@@ -79,7 +79,7 @@ The main framework is there, all we need to add is the content of the 'boxes' wi
 5. Why are the images under the 'gallery' title ? Why are the images ne
 
 
-### Create a footer
+#### Create a footer
 Inspect the footer and add the code to your `index.html` file!
 
 > ## 😱  Sanity Check
@@ -87,7 +87,7 @@ Inspect the footer and add the code to your `index.html` file!
 > ![End result exercise 2](https://cd.sseu.re/Museum_Guide_2018-11-29_16-22-51.png)
 > You can find a link to the code [here]("./finalResults")
 
-### Push your work to GH:
+#### Push your work to GH:
 1. Stage your changes, commit them and push them to GitHub:
 
 ```shell

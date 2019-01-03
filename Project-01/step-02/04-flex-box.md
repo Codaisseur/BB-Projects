@@ -17,7 +17,7 @@ By the end of this section, you will learn:
 
 
 ## ✏️ Assignments
-### Make it work for mobile
+#### Make it work for mobile
 When you compare the app you created so far to the example app, we see a couple of differences:
 ![spacing differences](https://cd.sseu.re/MuseumGuide_2018-12-11_09-20-33.png)
 Since we are trying to rebuild the example app, we'll have to work on how we position our images in our gallery. We'll try to make it look good on your phone first, after, we'll make it work on our desktop.
@@ -33,7 +33,7 @@ Since we are trying to rebuild the example app, we'll have to work on how we pos
 > ## 👌 Pro-tip
 > If you copy code, make sure your indentation is still correct!
 
-### Gallery title
+#### Gallery title
 When the screen is big enough, the title 'Gallery' should be placed next to the images. In mobile view, it should be above.
 
 1. Change your view back to normal: ![mobile view DevTools](https://cd.sseu.re/Museum_Guide_2018-12-11_09-29-32.png)
@@ -42,7 +42,7 @@ When the screen is big enough, the title 'Gallery' should be placed next to the 
     * ... the value of the `flex-flow` property to `column`? 
     * ... the value of the `align-items` property to `flex-end`?
 
-### Push your changes to GitHub
+#### Push your changes to GitHub
 Check your changes, select the ones you want to commit, commit and push them to your branch.
 
  ```shell
@@ -52,7 +52,7 @@ Check your changes, select the ones you want to commit, commit and push them to 
  $ ggpush
  ```
 
-### Merge into master
+#### Merge into master
 We build our feature! Let's merge everything into master.
 
 1. Checkout your GitHub repository page and click the green button:

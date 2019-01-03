@@ -17,7 +17,7 @@ By the end of this section, you will learn:
   * [DOM 1]()
 
 ## ✏️ Assignments
-### Display the elements on the page
+#### Display the elements on the page
 Time to display our work on our page!
 
 1. Notice that the one comment we displayed, is part of the section with the id `comments`: ![comments section](https://cd.sseu.re/Een_vrolijke_vioolspeler_2018-12-11_15-15-12.png) Select this element using the `getElementById`-method and store it in the variable `commentSection`.
@@ -28,7 +28,7 @@ Time to display our work on our page!
 > You should now be able to add a comment:
 > ![display comments](https://cd.sseu.re/Een_vrolijke_vioolspeler_2018-12-11_15-28-08.png)
 
-### Empty the form
+#### Empty the form
 Let's reset the input fields!
 
 1. Reassign the `value`-property of `inputField` to `null`.
@@ -67,7 +67,7 @@ Let's reset the input fields!
 > }
 > ```
 
-### Push your work to GH:
+#### Push your work to GH:
 1. Stage your changes, commit them and push them to GitHub:
 
 ```shell

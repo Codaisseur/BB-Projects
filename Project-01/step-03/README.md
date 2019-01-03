@@ -28,7 +28,7 @@ Please checkout the following modules before you start working on this step:
   * [DOM 1]()
 
 ## ⁉️ Help
-See how far you can get on your own. We'll try to resemble your working future environment: if you get stuck, first heck out the modules again or try to google your question. If that does not solve your issue, ask your classmates or teachers to help out. 
+See how far you can get on your own. We'll try to resemble your working future environment: if you get stuck, first check out the modules again or try to google your question. If that does not solve your issue, ask your classmates or teachers to help out. 
 
 However **always** ask for help if you get stuck for longer then 15 minutes, if the assignment is not clear to you or if you feel like your progress is too slow to finish the assignments.
 

@@ -17,7 +17,7 @@ By the end of this section, you will learn:
 
 ## ✏️ Assignments
 
-### No Empty Comments
+#### No Empty Comments
 Right now, a user can add an empty comment: ![empty comment](https://cd.sseu.re/Een_vrolijke_vioolspeler_2018-12-18_10-02-52.png) That is not very useful, so let's do something about it!
 
 1. Use the `console.log` method to check what the values of your `name` and `msg` variables are if you do not type anything in the the input fields.
@@ -46,14 +46,14 @@ Now we don't have empty comments, but our user might get somewhat frustrated if 
 2. What happens if you put this line under your `return` statement? Why?
 3. What happens if you remove the line `return null` from your `if`-statement?
 
-### Short comments
+#### Short comments
 Comments should be short. Let's filter out comments that are too long.
 1. Write an if statement that checks whether a comment is longer than 280 characters. If it is, the comment should not be displayed on the page and the user should get a warning that the comment is too long.
 
 > ## 👌 Pro-tip
 > Not working as expected? Try to `console.log` the length of your message first!
 
-### Separate function
+#### Separate function
 To prevent code that is too long and make sure our function does not get too powerful, we'll move our validation logic in a separate function.
 
 1. Declare a function called `doesNotPassAllValidations` which has two parameters: `name` and `msg`.
@@ -63,7 +63,7 @@ To prevent code that is too long and make sure our function does not get too pow
 6. Replace your current `if`-statements with the following logic: If `doesNotPassAllValidations()` returns true, `submitComment` should return `null`. Else it should perform the logic we defined earlier.
 
 > ## 😱  Sanity Check
-> `detail-page.js` should containe the following code:
+> `detail-page.js` should contain the following code:
 ```javascript
 function doesNotPassAllValidations(name, msg) {
   if (!name || !msg) {
@@ -89,13 +89,13 @@ function submitComment() {
   // ...
 ```
 
-### Extra: More validations:
+#### Extra: More validations:
 1. Display a separate message if only the `name` or the `message` input field are not filled in.
 2. If a name does not start with a capital letter, change the first letter to `upperCase`.
 3. Check whether you message contains inappropriate language. If they do, return the comment with the warning: `Warning: this comment has been flagged as offensive`. Style it in an appropriate way.
 
 
-### Push your work to GH:
+#### Push your work to GH:
 1. Stage your changes, commit them and push them to GitHub:
 
 ```shell
@@ -109,7 +109,7 @@ $ ggpush
 > 
 > However this is a method that is useful for you, not so much for the final product. It is good practice to remove all unecessary logs and comments from your code before you push to GitHub.
 
-### Merge your branch
+#### Merge your branch
 Merge your branch and pull the latest version from master!
 
 ## 🎯 Learning Goal Tracker
