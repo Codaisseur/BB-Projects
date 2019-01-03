@@ -20,7 +20,7 @@ By the end of this section, you will learn:
 
 ## ✏️ Assignments
 
-### Create a directory
+#### Create a directory
 
 1. Open your terminal and create a new directory called codaisseur. Don't forget to hit enter!
 ![mkdir codaisseur](https://cd.sseu.re/1._mimiCodaisseursMBP2__zsh_2018-11-28_15-30-35.png)
@@ -44,7 +44,7 @@ By the end of this section, you will learn:
 
 That's it! You are all set up!
 
-### Initialize a git repository and commit your first change
+#### Initialize a git repository and commit your first change
 
 Next up, we will initialize a git repository (repo) to keep track of all your changes. You'll be creating a new git repo for every new project during the academy and beyond...
 
@@ -82,7 +82,7 @@ Next up, we will initialize a git repository (repo) to keep track of all your ch
 
 ![gst commit](https://cd.sseu.re/1._mimiCodaisseursMBP2_codaisseurweek-1museum-app_zsh_2018-11-28_16-48-51.png)
 
-### Push your changes to github
+#### Push your changes to github
 With a git repository we can track our progress, however, it runs only on our local machine. So let's make sure we can store (and present) our project online!
 
 1. Go to [www.github.com](https://github.com/). After logging in, click on the plus icon and choose `New Repository`:

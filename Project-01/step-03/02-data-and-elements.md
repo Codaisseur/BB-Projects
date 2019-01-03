@@ -20,7 +20,7 @@ By the end of this section, you will learn:
   * [DOM 1]()
 
 ## ✏️ Assignments
-### Gather data
+#### Gather data
 Let's see whether we can get the values of our input fields are store them in some variables.
 
 
@@ -63,7 +63,7 @@ Let's see whether we can get the values of our input fields are store them in so
 > }
 > ```
 
-### Create the elements you need
+#### Create the elements you need
 1. Inspect the example page to see in which type of elementts are used to display a comment:
 ![inspect comment](https://cd.sseu.re/Een_vrolijke_vioolspeler_2018-12-11_11-56-51.png)
 
@@ -97,7 +97,7 @@ Let's see whether we can get the values of our input fields are store them in so
 > }
 > ```
 
-### Adjust the elements you created
+#### Adjust the elements you created
 Let's combine the data we gathered with the elements we just created!
 
 1. Reassign the `innerHTML` property of your `h3`-variable to the value of \`${name} said:\`.
@@ -130,7 +130,7 @@ Let's combine the data we gathered with the elements we just created!
 > }
 > ```
 
-### Push your work to GH:
+#### Push your work to GH:
 1. Stage your changes, commit them and push them to GitHub:
 
 ```shell
